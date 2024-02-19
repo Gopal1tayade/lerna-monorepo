@@ -1,0 +1,9 @@
+{
+  "name": "uilibrary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  }
+}

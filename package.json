@@ -1,0 +1,12 @@
+
+{
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "lerna": "^4.0.0",
+    "snabbdom": "^3.6.2"
+  }
+}
